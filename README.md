@@ -1,4 +1,4 @@
-# LearningCategoryTheory
+# Learning Category Theory
 
 Working through _Bartosz Milewsk's_ "Category Theory for Programmers":
 * [Web](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
