@@ -11,5 +11,5 @@ Working through _Bartosz Milewsk's_ "Category Theory for Programmers":
 
 
 # Other links
-* [What is applied category theory](https://arxiv.org/pdf/1809.05923.pdf) more general covering __Natural Language Processing__ and Chemical Reaction Networks
+* [What is applied category theory](https://arxiv.org/pdf/1809.05923.pdf) more general covering *Natural Language Processing* and *Chemical Reaction Networks*
 
