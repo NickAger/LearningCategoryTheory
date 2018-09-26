@@ -11,5 +11,6 @@ Working through _Bartosz Milewsk's_ "Category Theory for Programmers":
 
 
 # Other links
+* [The algebra of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types) - [hacker news discussion](https://news.ycombinator.com/item?id=17942112)
 * [What is applied category theory](https://arxiv.org/pdf/1809.05923.pdf) more general covering *Natural Language Processing* and *Chemical Reaction Networks*
 
